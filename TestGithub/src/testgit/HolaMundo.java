@@ -7,7 +7,7 @@ public class HolaMundo {
 	}
 	
 	void hola () {
-		System.out.println("Hola Tercera Version 33");
+		System.out.println("Cuarta version 4");
 	}
 
 	public static void main(String[] args) {
